@@ -1,0 +1,42 @@
+#myName
+{
+  text-align: center;
+}
+
+img#face
+{
+  width : 40%;
+}
+
+#intro, #edu
+{
+  text-align : center;
+}
+
+#contact
+{
+  margin-left : 20%;
+}
+
+.Edu
+{
+  float : left;
+  padding : 0 10px;
+  width : 32%;
+  text-align: center;
+}
+
+/*#edu
+{
+  display : flex;
+}
+
+.EduImg
+{
+  display : flex;
+}
+
+img.EduImage
+{
+  flex : 1.33;
+}*/
