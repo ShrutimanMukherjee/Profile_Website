@@ -10,12 +10,13 @@ img#face
 
 #intro, #edu
 {
+  width : 50%;
   text-align : center;
 }
 
 #contact
 {
-  margin-left : 20%;
+  margin-left : 25%;
 }
 
 .Edu
