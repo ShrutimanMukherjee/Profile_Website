@@ -1,4 +1,4 @@
-#myName
+#myName, #edu
 {
   text-align: center;
 }
@@ -8,7 +8,7 @@ img#face
   width : 40%;
 }
 
-#intro, #edu
+#intro
 {
   width : 50%;
   margin-left : 25%;
